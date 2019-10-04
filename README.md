@@ -17,7 +17,9 @@ I failed the first exam attempt with 65 points. As the final few minutes of my e
 On the second attempt, I effectively scheduled in nap/sleep. With a focused mind, I passed the OSCP with 85 points (including the writeup). 
 
 
-Methodology Reflection: The skills one discovers doing the OSCP will likely be unique to the individual. However, the methodology students use to pass OSCP will likely be overall consistent. This discovered methodology is universally applicable, in that as technology changes, an OSCP knowledge will remain useful. This is because the necessary methodology OSCP It is more of a state of mind then a toolset. 
+#### Methodology Reflection: 
+
+The skills one discovers doing the OSCP will likely be unique to the individual. However, the methodology students use to pass OSCP will likely be overall consistent. This discovered methodology is universally applicable, in that as technology changes, an OSCP knowledge will remain useful. This is because the necessary methodology OSCP It is more of a state of mind then a toolset. 
 
 #### Personal Methodology: While Cracking a Box I would often follow guidelines similar to that below:
 
