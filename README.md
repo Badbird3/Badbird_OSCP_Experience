@@ -1,6 +1,6 @@
 ### Personal Background
 
-I am a college student studying Trumpet Performance and Chinese language/culture. A year ago, I began participating in university computer/hacking clubs. I complete the OSCP over the summer in hopes of building a foundation for a career as a penetration tester. The journey to achieve OSCP was one of the most rigorous tasks I have ever completed. At the start of summer break, I bought the 60 day OSCP package. At the time I was also working at a Chinese market/deli. 
+I am a college student studying Trumpet Performance and Chinese language/culture. A year ago, I began participating in university computer/hacking clubs. I completed the OSCP over the summer in hopes of building a foundation for a career as a penetration tester. The journey to achieve OSCP was one of the most rigorous tasks I have ever completed. At the start of summer break, I bought the 60 day OSCP package. At the time I was also working at a Chinese market/deli. 
 
 ### Lab and Course Exercise Experience: 
 
